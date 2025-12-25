@@ -4,3 +4,24 @@ main {
     margin-right: auto;
 }
 
+#selfie img {
+    width: 100%;
+}
+
+#selfie {
+    height: auto;
+    margin: 0px;
+    width: 30%;
+    min-width: 200px;
+}
+
+
+#intro-div {
+    display: flex;
+}
+
+
+#intro-text p {
+    margin: 0px;
+    padding: 0 10 10 10px;
+}
